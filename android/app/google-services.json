@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059411456767",
+    "project_id": "eventh-e2993",
+    "storage_bucket": "eventh-e2993.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059411456767:android:de1454d191f22a3e1252ca",
+        "android_client_info": {
+          "package_name": "com.eventhmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiVwqyTSr5OP7EkSSDwF9daA1V3OKCqvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
